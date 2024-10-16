@@ -1,5 +1,5 @@
 let listaNumerosSorteados = [];
-let quantidadeTentativas = 100;
+let quantidadeTentativas = 10;
 let numeroSecreto = gerarNumeroSecreto();
 console.log(numeroSecreto);
 
