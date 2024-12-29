@@ -25,7 +25,7 @@ function limpaCampo(){
 
 function mensagemInicial(){
     gerarTextoNaTela('h1', 'Jogo do número secreto');
-    gerarTextoNaTela('p', `Escolha um número entre 1 e ${quantidadeTentativas}`);
+    gerarTextoNaTela('p', `Descubra um número entre 1 e ${quantidadeTentativas}`);
 }
 
 
